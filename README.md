@@ -1,2 +1,3 @@
 # hello-world
-say hi to github
+Say hi to github
+I am the first time to use github
